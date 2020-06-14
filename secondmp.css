@@ -1,0 +1,295 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#text p{
+	font-family: berlin sans fb;
+	font-size: 1.5em;
+}
+.bgimage{
+	background-image: url(images/blu.jpg);
+	background-position: center;
+	background-size: cover;
+	font-color: #ffffff;
+	padding-left: 50px;
+}
+#logo h2{
+	color: #fff;
+	font:  3.0em Harrington;
+	font-weight: bold;
+	padding-right: 20px;
+	margin-right: 20px;
+	padding-bottom: -10px;
+}
+#logo h4{
+	color: #fff;
+	padding-top: -30px;
+	margin-top: -20px;
+	font-weight: bold;
+	font:  1.2em Arial;
+}
+#menu{
+	float: left;
+	position: relative;
+    min-height: 1px;
+    padding-right: 100px;
+    padding-left: 165px;
+}
+#menu ul{
+	margin:0;
+	padding: 0;
+	list-style: none;
+}
+#menu li{
+	display: block;
+	float: left;
+	height: 45px;
+}
+#menu a{
+	color: #fff;
+	font:  1.3em sans-serif;
+	padding-bottom: -100px;
+	margin-top: -80px; 	
+}
+#menu input{
+	margin-top: 40px;
+	color: #fff;
+}
+#menu span{
+	color: #ffffff;
+	margin-top: 5px;
+}
+#text {
+	float: right;
+	border-right: 0;
+	padding-right: 110px;
+}
+#text h3 {
+	font: bold 2.5em cambari;
+	color: #fff;
+	margin-bottom: 30px;
+}
+#text p{
+	color: #ffffff;
+	font: eras demi itc;
+}
+.second{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+}
+.second h4 {
+	text-align: center;
+	color: #eee8aa;
+	font-family: monotype corsiva;
+	font-size: 40px;
+	margin-top:-20px;
+	margin-bottom: -20px;	
+}
+.second h3{
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: arial black;
+	margin-top:-20px;
+	margin-bottom: -20px;
+}
+.glyphicon{
+	color: #c0c0c0;
+	padding-top: -14px;
+	padding-bottom: 18px;
+}
+.second p{
+	text-align: center;
+	padding-top: -14px;
+}
+.btn{
+	margin-top: 12px;
+}
+.row{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.third{
+	background-image: url(images/boati.jpg);
+	background-position: center;
+}
+img{
+	margin: auto;
+	display: block;
+}	   
+.thumbnail{
+	margin: 0 1em 4em 1em;
+	padding: 10px 25px 10px 25px;
+	background-color: #ffdead;
+	border-color: #ffdead #ffdead #ffdead #ffdead;
+    border-width: 2px 2px 2px 2px;
+    border-style: solid;
+}
+.thumbnail img{
+	border: 10px solid #ffdead;
+	border-color: #ffdead #ffdead #ffdead;
+    border-width: 2px 2px 2px 2px;
+    border-style: solid;
+}
+.box{
+	background-color: #b8860b;
+	padding-top: 10px;
+	border-bottom: 4px solid #b8860b;
+	border-right: 2px solid #b8860b;
+	border-left: 2px solid #b8860b;
+}
+.box strong{
+	color: #ffffff;
+}
+.box2{
+	background-color: #d2691e;
+	padding-top: 10px;
+	border-bottom: 4px solid #d2691e;
+	border-right: 2px solid #d2691e;
+	border-left: 2px solid #d2691e;
+}
+.box2 strong{
+	color: #ffffff;
+}
+.box3{
+	background-color: #008b86;
+	padding-top: 10px;
+	border-bottom: 4px solid #008b86;
+	border-right: 2px solid #008b86;
+	border-left: 2px solid #008686;
+}
+.box3 strong{
+	color: #ffffff
+}
+.btn-default{
+	padding: 10px 0 10px 0;
+	text-align: center;
+}
+.placeimage{
+	background-color: #4b0082;
+	height: 130px;
+	
+}
+.imagecap{
+	position: absolute;
+	margin: 1em 8em 0 8em;
+	background-color: #fff;
+	border-color: #ffdead #ffdead #ffdead #ffdead;
+    border-width: 5px 4px 5px 4px;
+    border-style: solid;
+}
+.imagecap p{
+	text-align: center;
+	letter-spacing: 3px;
+}
+.text{
+	position: absolute;
+	padding-top: 20px;
+	float: left;
+}
+.fourth h4 {
+	text-align: center;
+	padding-top: -10px ;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #228b22;
+	font-family: century gothic;
+	font-size: 20px;
+}
+.fourth h5 {
+	text-align: center;
+	padding-top: -10px ;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #b22222;
+	font-family: Tw Cen MT Condensed;
+	font-size: 25px;
+}
+.fourth h3 {
+	text-align: center;
+	padding-top: -10px ;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #7b68ee;
+}
+.fourth p {
+	text-align: center;
+	font-family: arial black;
+	margin-bottom: 0;
+}
+.fa{
+	padding-left: 180px;
+	padding-top: 25px;
+	padding-bottom: -25px;
+	margin-bottom: 0px;
+	color: #c0c0c0;
+}
+.fifth{
+	padding-bottom: 80px;
+}
+.fifth h3{
+	text-align: center;
+	color: #ffffff;
+}
+.fifth p{
+	color: #f0e68c;
+	text-align: center;
+}
+.fifth h4{
+	color: #deb887;
+	text-align: center;
+}
+.fifth h5{
+	color: #66cdaa;
+	text-align: center;
+}
+.fifth button{
+	color: #b8860b; 
+}
+.cont p{
+	position: relative;
+	margin-right: 40px;
+	padding-left: 100px;
+}
+#left{
+	background-image: url(images/boat.jpg);
+	padding-right: 0;
+	margin-top: 
+
+}
+#left h4{
+	color: #ffdead;
+	background-color: #ffffff;
+	border: 5px solid #ffdead;
+	text-align: center;
+}
+#left p{
+	color: #000000;
+	background-color: #ffffff;
+	
+}
+#in{
+	padding-right: 10px;
+}
+#inn{
+	background-color: #483d8b;
+	padding-left: 0;
+	padding-right: 0
+	margin-top: -15px;
+}
+#inn ul{
+	padding-top: 8px;
+	color: #ffffff;
+}
+
+#innn{
+	background-color: #483d8b;
+	padding-left: 0;
+	padding-right: 0;
+	margin-top: 0;
+}
+#innn ul{
+	padding-top: 8px;
+	color: #ffffff;
+}
